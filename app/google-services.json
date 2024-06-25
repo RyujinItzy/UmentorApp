@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "777074444846",
+    "project_id": "umentor-749b9",
+    "storage_bucket": "umentor-749b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777074444846:android:831fb0c16b886546756dbf",
+        "android_client_info": {
+          "package_name": "com.example.shashank.umentorapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK5PuwtWCR4gn-F8I4LcZAdZLT6myGxMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
